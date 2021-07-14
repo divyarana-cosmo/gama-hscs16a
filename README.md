@@ -1,4 +1,11 @@
-# Weaklensing measurements for GAMA galxy groups using HSC S16a shape catalog data
-Here we provide the weak lensing signal measurements data used in our work DR,SM et al. 2021.
+# Subaru HSC weak lensing measurements for GAMA galaxy groups
+
+Here we provide the weak lensing signal measurements data used in our research publication: https://arxiv.org/abs/2107.05641.
+
+The weak lensing signal measurements were carried out in two binning schemes:
+- Group luminosity
+- Group velocity dispersion
+
 Files are named according to the bin edges and include columns as x,y and yerror.
-We also provide the data for the covariance matrix plotted in the paper. The shp_cov_lum is for the group luminosity selection, and the shp_cov_vel is for the velocity dispersion. 
+
+We also provide the data for the covariance matrix for these measurements in each of the directories.
